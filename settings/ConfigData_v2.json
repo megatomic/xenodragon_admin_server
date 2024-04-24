@@ -1,0 +1,61 @@
+{
+  "AppType": 4,
+  "StrAppType": "QA_LOCAL",
+  "LoginServerURL": "http://172.30.1.33/DevHost/BuildTest/",
+  "PacketVersion": 15,
+  "PlatformInfos": [
+    {
+      "PlatformName": "android",
+      "MarketURL": "https://play.google.com/store/apps/details?id=com.nstep.projectxd",
+      "ClientVersion": "1.0.4",
+      "PatchVersion": "10",
+      "ServiceState": 0,
+      "ReviewState": 0,
+      "LoginServerURL_Review": "http://59.13.4.61:8000",
+      "AdsType": 2
+    },
+    {
+      "PlatformName": "android_xsolla",
+      "MarketURL": "https://sites.google.com/nstepcorp.io/apkdownd",
+      "ClientVersion": "1.0.4",
+      "PatchVersion": "10",
+      "ServiceState": 0,
+      "ReviewState": 0,
+      "LoginServerURL_Review": "http://59.13.4.61:8000",
+      "AdsType": 2
+    },
+    {
+      "PlatformName": "ios",
+      "MarketURL": "https://apps.apple.com/us/app/xeno-dragon/id1604111948",
+      "ClientVersion": "1.0.3",
+      "PatchVersion": "9",
+      "ServiceState": 0,
+      "ReviewState": 0,
+      "LoginServerURL_Review": "http://59.13.4.61:8000",
+      "AdsType": 2
+    }
+  ],
+  "NoticeNumber": 19,
+  "NoticeContent": "",
+  "InspectMessage": [
+    {
+      "code": "Korean",
+      "content": "Currently, Xeno Dragon Server maintenance and app update are in progress from UTC 6:00 AM to 6:30 AM.\nDuring the maintenance, Xeno Dragon services will be unavailable.\nPlease reconnect after the maintenance is completed. Thank you. -Team X.D.-"
+    },
+    {
+      "code": "English",
+      "content": "Currently, Xeno Dragon Server maintenance and app update are in progress from UTC 6:00 AM to 6:30 AM.\nDuring the maintenance, Xeno Dragon services will be unavailable.\nPlease reconnect after the maintenance is completed. Thank you. -Team X.D.-"
+    }
+  ],
+  "UpdateMessage": [
+    {
+      "code": "Korean",
+      "content": "버전 1.0.4가 출시되었습니다. 업데이트를 받으시길 바랍니다."
+    },
+    {
+      "code": "English",
+      "content": "Version 1.0.4 was launched. Please download it from the app market."
+    }
+  ],
+  "ErrorMessage_Korean": "�˼����� ���� �߻�."
+}

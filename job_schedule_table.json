@@ -1,0 +1,484 @@
+{
+    "message-1-undefined": {
+        "date": "2022-12-31T09:10:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2wiOiJ7XCJBQ0NcIjpbe1wia1wiOlwiUDAyMDFcIixcInZcIjoxfSx7XCJrXCI6XCJQMDIwMlwiLFwidlwiOjF9LHtcImtcIjpcIlAwMjAzXCIsXCJ2XCI6MX0se1wia1wiOlwiUDAyMDRcIixcInZcIjoxfSx7XCJrXCI6XCJQMDIwNVwiLFwidlwiOjF9LHtcImtcIjpcIlAwMjA2XCIsXCJ2XCI6MX1dLFwiVVNSXCI6W3tcImtcIjpcIlAwMzAxXCIsXCJ2XCI6MX0se1wia1wiOlwiUDAzMDJcIixcInZcIjoxfSx7XCJrXCI6XCJQMDMwM1wiLFwidlwiOjF9LHtcImtcIjpcIlAwMzA1XCIsXCJ2XCI6MX0se1wia1wiOlwiUDAzMDdcIixcInZcIjoxfSx7XCJrXCI6XCJQMDMwOFwiLFwidlwiOjF9XSxcIk5PVFwiOlt7XCJrXCI6XCJQMDQwMlwiLFwidlwiOjF9LHtcImtcIjpcIlAwNDA0XCIsXCJ2XCI6MX0se1wia1wiOlwiUDA0MTJcIixcInZcIjoxfSx7XCJrXCI6XCJQMDQxNFwiLFwidlwiOjF9LHtcImtcIjpcIlAwNDIyXCIsXCJ2XCI6MX0se1wia1wiOlwiUDA0MjRcIixcInZcIjoxfSx7XCJrXCI6XCJQMDQzMlwiLFwidlwiOjF9LHtcImtcIjpcIlAwNDM0XCIsXCJ2XCI6MX1dLFwiTUlCXCI6W3tcImtcIjpcIlAwNTAyXCIsXCJ2XCI6MX0se1wia1wiOlwiUDA1MDNcIixcInZcIjoxfSx7XCJrXCI6XCJQMDUwNFwiLFwidlwiOjF9XSxcIk1QVVwiOlt7XCJrXCI6XCJQMDYwMlwiLFwidlwiOjF9LHtcImtcIjpcIlAwNjAzXCIsXCJ2XCI6MX0se1wia1wiOlwiUDA2MDRcIixcInZcIjoxfV0sXCJFTFJcIjpbe1wia1wiOlwiUDA3MDJcIixcInZcIjoxfSx7XCJrXCI6XCJQMDcwM1wiLFwidlwiOjF9LHtcImtcIjpcIlAwNzA0XCIsXCJ2XCI6MX1dLFwiQUxPXCI6W3tcImtcIjpcIlAwODAxXCIsXCJ2XCI6MX0se1wia1wiOlwiUDA4MDJcIixcInZcIjoxfV0sXCJTRVRcIjpbe1wia1wiOlwiUDA5MDFcIixcInZcIjoxfSx7XCJrXCI6XCJQMDkwMlwiLFwidlwiOjF9XX0iLCJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY3MjMwNDE0OCwiZXhwIjoxNjcyMzA3NzQ4LCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.YNjShFVKdhBN6x82y9OAD9ME-eAvJbHj-CBWTxnWv72Kz0s7ynIJzaPaFiy1POLjX-am8-yTw1YGS7IcBjvs8WjXXvU6IZ-YtO7qH7CGawDDSYJAU9OH6qTVmC4SQs6HZCZ5JeoAFZZBwK8j1Ct8IKvXjW0bL-P_gI9-IPD-DAD52or--FOl-EcBAuVz7VBmo_sPTrBEl7aUs-8fLZJsq9D7X2g_0EsBpD-VnMOHlEB0K-9rtiO7-NW8pL_j97ewkgwdYQp6AOs2kbK0Ot9eewiiCoEC7kxPeMxhcBLTuHmWk2raW2JSZaLkZN-75SLzXhz9VS2AbO2cvWfB0fhcgbxibBArjfyIEggUu0hLVW1v9f4tQIEExiU0v0TxYrvrntGtoKgpOhpY_-UKxjNjmVvashZDJFBPDCbH2X_2zKT8uJgXxror8k_ZE9oMv9wZ6MKsXOdouEpW8YkznEeSpCQbdW9wYHzLBGrkujs-F5u-ybBcYrThIpok27VxauDaYTKPnfeKTdZGwqrbR7CbRD505ULmWBOY5GbtUuOVC5T5Zz7IwdcgjGGwBdL6oDcLsTFIddtgofdWyeDt_0oTmOy0dhoa0Qfb7pOP3Slg1XEoQo5aqVwDtdZEPDFBUBISDhLrk0fTfpKkM9PBFPJKUPPxlcskQK7ex0J1aVaKkTM",
+            "msgID": -1,
+            "msgType": 1,
+            "targetUserID": "",
+            "title": "보상4",
+            "content": "보상4",
+            "reservationFlag": true,
+            "activationFlag": false,
+            "startTime": "2022-12-31 18:10:00",
+            "creationTime": "",
+            "rewardData": "{\"gold\":{\"qty\":500}}"
+        }
+    },
+    "push764698a9t1Ba": {
+        "date": "2023-07-05T06:50:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY4ODUzOTI4OCwiZXhwIjoxNjg4NTQyODg4LCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.BgEWEtKtEGioa0RzzGgBBJ6CjuWffG8kwgm6-8vY0ujRH9AcqziUn2U2g0ebxHjTrVREfPWWSXgeQW_5ggAGr9DFH54IVMCGj1DLb-B8HfC4XV7etJ0auGbXbxmodwVahwc_aVy6mS2KBJ0lYk1EZWGVDI7Cp5pfqpruBh3Tnu8rixUUsmyyQgZNhUD_2zgDeXSItTyXsYzPacc6ApkOi4Sz-u8w79TJh0IfxMwWDA0XJpy1L9FORgqbtFX02mCD3ioonFYpiRnJ5ZKPFOJ0ASPS1FreAhLyxwEVbPHejM21NWl4LhIOiqs_Cxjml6ZDnQxA5LjJHf231pMbmMnUVDVmIeXs3va2sosF2yalvC0zJqc7R-19t_-B3CYsXcvClGiT_1da7BrBlwiaStAC7f5nB_KB7BvPJ-tc0ShvRTrORg9GLYkFaNCq9y4YevOJ_tQ6_Najj8BDajhn3hE-o1dR3oEKvPCdMrOP-Z2AckteY-FS1ZEAtYtH7WsCfBeKbHbRuSSq2SaFi0QuZaG1aNGiqj8OrCU7ApPHNVHVE5UHHzX8_f-Aj4gAGfdqCKOqBx7B1s_6xm8fVKA2n25SdTCCjfZPzKwO7_fL5rSmOKu9IoVzcP2Tgkv5M_2Q0-RCudmUmGxmWiiohNQNNkkVnH6ndUkCoeZ_Xcdx0ZpOi3E",
+            "serverType": "qa",
+            "msgID": 669,
+            "msgType": 2,
+            "targetType": "user",
+            "targetUserID": "3fdead67-720c-4bcc-a277-4409a2b93bb4",
+            "titleTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test3"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": "push test3"
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": "push test3"
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": "push test3"
+                }
+            ],
+            "contentTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test3"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": "push test3"
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": "push test3"
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": "push test3"
+                }
+            ],
+            "reservationFlag": true,
+            "liveFlag": false,
+            "startTime": "2023-07-05 15:50:00",
+            "creationTime": "",
+            "rewardData": {
+                "state": 0,
+                "resultCode": 0,
+                "message": ""
+            }
+        }
+    },
+    "pushUrQ90Igd6fi3": {
+        "date": "2023-07-05T07:00:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY4ODUzOTYxNSwiZXhwIjoxNjg4NTQzMjE1LCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.aUOhiQLqLhx7e5iXvmHclWukaYOL0kMXOIiJfzS_nrTNUNKJY7MKfxOWsF9mPiydPlufE2zR3z-g33xYpJ6vMSoQ_fM4vLrIgumoOxjKiQRI4EMFYkaVJ_gJVEAiDHHmGVbpd-l2i9cXpn9fpfsWMCbctRLICGREyxYQM90CwQ73NUBeeBAG9j2djWYb9hWWQAJr7MVPz2fKMTKD-XFF80G1su6RZ2gvL5U9vjnC1Vh_UAa4ANFIApLzZHIvRl29-XoxUfGNy-ukedEZ1A4UIQu90Ok3WMRS6bx1uSQVg56sE130Ne3jGpdQH_LhSjWzlLint_BHhKAFeKzAUnz7KjpRjHaxMLWmkWtQyp2J7Jc2jsdCyX67ohdo9BJ7vqV7FmUJqrhNmIqPKh1fbFmGqhQ28lVc4qr5SOGIvWVGvfly9VHTseWuchvMWhX4QOxcaPmuwDIX3SH9C6Mxztvr5VoSRMpZbeFdhzH7Q-5QIc7aiOuKAEFnvLYBNwKzNacckdl3HK7iOJ48AEpyT6Ekd3vTSaXCy664nc4PYEqtz-aTkdijX9TFa0U7kfBseYWtHQCeNBVAKUjJ9yV7htKRIufDvgM1mHxxUAi7ELSn510xl50KaC9CtwCKuukY8TBZvpm9atrMAEAZ4cmTumFDzulnIeqYZ_Z7dag_HNX4I2Q",
+            "serverType": "qa",
+            "msgID": 670,
+            "msgType": 2,
+            "targetType": "user",
+            "targetUserID": "3fdead67-720c-4bcc-a277-4409a2b93bb4",
+            "titleTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test 5"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": "push test 5"
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": "push test 5"
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": "push test 5"
+                }
+            ],
+            "contentTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test 5"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": "push test 5"
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": "push test 5"
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": "push test 5"
+                }
+            ],
+            "reservationFlag": true,
+            "liveFlag": false,
+            "startTime": "2023-07-05 16:00:00",
+            "creationTime": "",
+            "rewardData": {
+                "state": 0,
+                "resultCode": 0,
+                "message": ""
+            }
+        }
+    },
+    "push11w4OJnq3zB9": {
+        "date": "2023-10-24T05:40:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY5ODEyNTM4MSwiZXhwIjoxNjk4MTI4OTgxLCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.OpGBOhSU4dphW7V0FWT-TxSuW_A8LEb-SktbEhuuq8r30IutpxR2CUI1YA_jXmITjsyG-d2zwLJFjpWBWm9azqvmnFKd2FsQnEVtuLlVBUKHDG8R_gZFRzdozVCcvankyXto4tVar64ybwi2Pg_TgF51oS5z6AqMf_18cxcmo7tdyntKC-y8f85tglskpjzI0aYecDbgdP4kltKBTuOu689Fa4YEixs10EsEpVct5uju3LfdeZ8k8TxYLolaDAICkhTMdKxaEkXKGpgUEMMomiEeYlgVvTNawfJfSFweuyd0DplugDkCZX7ZXU3ZuGSqlmvmws12HQjibef2Ov7zzpFcoHLAi-uZeKRLmvrju9y9YlTGEUx6TK4-9dwZqPodFo9V9wnBhN5N88W0l7vGqx4PWJ0__fAXpfNX-ryy9LOPwwichbxdZZNFdo5FKP57VSBKZpNfBBzhQpGWVNS-oh0gliMDIW8H88_OwkkJdfxPDGLRP9Tby3x4JFnHmn-F6Z6V-_-8Vvd5fna3qHcYbD2dK-ZoAtQtNJcSbQQvUmY4ZRSkpPaU7IZfoHP5Gl6CMEkGOVYQl85FRXkBOA18tEdkLAxqreRGVnjdEQNHhj403crFKSh3DsRehAzLXQFD5nLImXngNBflfb6bRYVeW7Xi2WtewioDYJal3C6RmMk",
+            "serverType": "live",
+            "msgID": 2525,
+            "msgType": 2,
+            "targetType": "user",
+            "targetUserIDTable": [
+                "99934c50-47b1-470a-acb9-04edd9c8e7b5"
+            ],
+            "titleTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "예약푸쉬2"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "contentTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "예약푸쉬2"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "reservationFlag": true,
+            "liveFlag": false,
+            "startTime": "2023-10-24 14:40:00",
+            "creationTime": "",
+            "rewardData": {
+                "state": 0,
+                "resultCode": 0,
+                "message": ""
+            }
+        }
+    },
+    "pushvY40WP15jDzx": {
+        "date": "2023-10-28T06:00:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY5ODEyNjM1NCwiZXhwIjoxNjk4MTI5OTU0LCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.NVEmdPhFQT2I8RNLEstn0ALDni1r58Byo_lg-kSjF8tPteNLAg9VcXm94Z_v7gz7w2ZfJaP1VkVwgdnFIG9KTZnGUZgAAH_GMDcHowGofA1g0Gids1ZmFCC0S3dJAVV9qrRgHF5wE53wKoGxNMY5IS2R8diOYpOVPieNHnIehScMz7e9mlNWQc7Y4lQPuY2BA5b3TZYlLv9hG53LX_3RIFzAuwRHzp4WCEax6nYFzxxaMX5UpfWKpYKKnQQN3gUu45H6LH1jZ_qTlG7x5VHDSCBL3DPM6zfexGESqbG72HkP5EIczubdia5i7BoFjJJmoFCVv5ROIT8UkWGo32MDpnpE2TyKPWRDzATLnBVRo-lbqKgCcXIfSk9SYNnC-rrxx1L7zMCmmdww2YYs6-P9PlFMZP9a-CN5-uZsq-eG2mXgZCxIla4TORtnoKYvPlc4_6so8eZDWaQvbRvKhk2WFiSMvdA5FqDxibr2bb5G6wIZ_zYjW2qY4GWuLEFTKlMQxMp5NTDNyWXXtdJr9T4c6fHF4_a4zxI22UA_wyHe3mhS0Grliy2hR6GgYAB2A1N2RYfdHX7jge5fkSLh01wsWPUXYW2exoe7PLTmZbjZqLZO4ByRn9RIG8kxRel27X9ErEH1_fyh0SXTXl4AAe0wwmrj1EWT-5ixn_ihCjaOHi0",
+            "serverType": "live",
+            "msgID": 2526,
+            "msgType": 2,
+            "targetType": "user",
+            "targetUserIDTable": [
+                "99934c50-47b1-470a-acb9-04edd9c8e7b5"
+            ],
+            "titleTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "contentTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "reservationFlag": true,
+            "liveFlag": false,
+            "startTime": "2023-10-28 15:00:00",
+            "creationTime": "",
+            "rewardData": {
+                "state": 0,
+                "resultCode": 0,
+                "message": ""
+            }
+        }
+    },
+    "push95P8W52jbN1t": {
+        "date": "2023-11-21T06:10:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY5ODEyNjYxMCwiZXhwIjoxNjk4MTMwMjEwLCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.VItkrcZvqAurlfKLhDIezX0cFppWcQYCHGASIAei1i33HHiJyL1CrheD9tNmyoR43SXdk39o0DlQkVpTyuxvPgvbErYX2HNva88I7T6vr6fc4cEvj7zGwKugBuYe5drErf4__7wT0DiMB6tM_YfJJJjCEJI5rKEaB_u1v0SHZTMLOb7nXNemfMlOIJxYMVD7Bk5Zhyy3e-XSSEq78aTru2GG7RdWhDyBPsCiRV-paTtJTm3aHHRXM9kX95ayhEJR4dKFpQl0EM4-y1qFAunY0CS6cNiXqSHAIimI_H0xH8Uj8Z5J9ziXw3kH5OMHO4vkloIGNeYS7fxVE9zVuP4-xwz0fYlXhODGzMq7VAhhaLltF5JU52L_Ed8hlp3OQ9DFQUPPtJGcW3KxSf3qDXLF6Fu1PE5WSQW64bssR_TpJSYxXha4xjK1QHBqLZnyHNyy3mJ2HW_TAn6dWHfukgM_qt9hbC_vZsHl6_ct7eoYxa77KSvnP1o_3Z16QBYtWkfp0fXhsakzqu_eF-2JmAZL0-2Uxnv9TjrI04VjzbeODlqn5-MyIebwBt9VLERo5xF13dUJLd_rj5A5rZZsP8xIhY2I706ROBTF_nD8MLvkZ-l6lFjuPnovRlRBk78WtVhUWrJGET0-Z4rNKjpChOVUNjW0KHNcZxChqg1Tfe7qYX8",
+            "serverType": "live",
+            "msgID": 2527,
+            "msgType": 2,
+            "targetType": "user",
+            "targetUserIDTable": [
+                "99934c50-47b1-470a-acb9-04edd9c8e7b5"
+            ],
+            "titleTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test2"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "contentTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test2"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "reservationFlag": true,
+            "liveFlag": false,
+            "startTime": "2023-11-21 15:10:00",
+            "creationTime": "",
+            "rewardData": {
+                "state": 0,
+                "resultCode": 0,
+                "message": ""
+            }
+        }
+    },
+    "pushsWN64SYVQDue": {
+        "date": "2023-12-13T06:00:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY5ODEyNzE1NywiZXhwIjoxNjk4MTMwNzU3LCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.ShHdOXUIunmQ5P3IIX2VVIb_OSmpQwVFMx8VwwIR61tBc-7Z3xjaSKMkPdIcvKoGPh-FOWFX0s4Pjcy-vBlD-2qT7t_q9gQgyi-LcGqRqlX3E_9Z5Aubc4lswMsexwltHLaB8fFJfXxCYyMEcf2uxlko50A5uwY2puYCixujsrwwsUV-YAPssRlcufYYDPwyVXOLAv9ROrVkFxbiGNntG_UukvMSH3vzq1beTCDV3Qi3JAZlMAFOZRGjskYjznXny151hMZf2-lrN76BLW9m8M_9mUwJ99kZfl42O_nPrrGVqsLccjsXgXsyGbbsvX2EPKLI7RtHmJ8tL2wyyr12a5ucMAyrdyhL_M-TPI7NweERnGHAAyWuDk8TNnMRCHAe0HiLVI7_f6pGzul0kEtQ2sUgWAVSA2ok1LwbPi7ia4Re8x-CbO75fIYSyLQ6sYNymjpIp71UjpIUpcDi6fPEPZaBgrO3-J5Xrzn61NvCpFiVQlsEJmC5CllY4MJ9hd3fNGZM_njO-ng5Z34_EMP3nTTmor9wckDoCeJViEPqt9EK9Mx-Ygqf_LmmH3X0sP9awOJ1gPLOGNhbUzyTROX1teLua1l6YwHJ1_PcqvLDUdFp1Zga1euqAoGDj1U194-o8eebhULWgfp4zIPbpwm4GIfXKvdEA_tn3OqqONM_TTA",
+            "serverType": "live",
+            "msgID": 2528,
+            "msgType": 2,
+            "targetType": "user",
+            "targetUserIDTable": [
+                "99934c50-47b1-470a-acb9-04edd9c8e7b5"
+            ],
+            "titleTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "contentTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "reservationFlag": true,
+            "liveFlag": false,
+            "startTime": "2023-12-13 15:00:00",
+            "creationTime": "",
+            "rewardData": {
+                "state": 0,
+                "resultCode": 0,
+                "message": ""
+            }
+        }
+    },
+    "pusheGiYwqKJLW25": {
+        "date": "2024-06-13T07:00:00.000Z",
+        "param": {
+            "adminID": "MASTER",
+            "authToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJUCI6Ijo6MSIsImlhdCI6MTY5ODEyNzI2OCwiZXhwIjoxNjk4MTMwODY4LCJpc3MiOiJiYWxlQG5zdGVwY29ycC5pbyJ9.anwr6MDzVl3PMWObh8dcQBuXK11Zj6Av8z9yeemT6_7KSpof1mFaryu3z0xgz9LNtDpwFVLWmA_dX-WaI0b0w55LV_KXUO_VILO8S0JhLQaUqDwRVm4OQo3mSl22SBs2G8MvzxpqIKvI8BA8FQvwr3EPc-Sc2viJlqijj9nsjH84KDm6-QJyeL9DswUXB6nx3S5wjWGIrdXuX8OTH_Pm0QtZ7Dp8sWVrTrSc-ZL5kkImKzsA1rOi5xuolVK6kCopeP6MaR_ql4g6JgMJ3MOh4hwa0IoowXmn5zLDuF0r9q5BBTYviLQouGvh2aDPncGRW1FmpVB-HqhV4yanmPQ6U1Q0dKYv4wqzV1LVbQgytOGB7_cVBqAJ4grMtiiL3EQQUtyNLrL5s-4QOCBcRO_5gga5OxTsJGTpDwUrjg6HCGK1oOA8rpsTEdxaagJ1zfOm378eQojH1KnUjhsALB2F8BxfwMTbGVaS80v-4uiuGk5cjk9trd1jTvPQV9EHuTqCDI55oUZClsZcctkZAtXFFAiifpY4-ywq1zeDFBE4EY08D5AD8uYdKgxQbcXeQ8mj2PIfknrhbE73meyFY5oCD4w1UM8Icc7ukpUZJZCFOfDu7Y4M9GOJ5rgZJGHZoD-UZlJA9km5Bv9QvCWaIu3CVOyRwBbfJY7R1SrbfVwAl0c",
+            "serverType": "live",
+            "msgID": 2529,
+            "msgType": 2,
+            "targetType": "user",
+            "targetUserIDTable": [
+                "99934c50-47b1-470a-acb9-04edd9c8e7b5"
+            ],
+            "titleTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "contentTable": [
+                {
+                    "langCode": 23,
+                    "langValue": "Korean",
+                    "content": "push test"
+                },
+                {
+                    "langCode": 10,
+                    "langValue": "English",
+                    "content": ""
+                },
+                {
+                    "langCode": 20,
+                    "langValue": "Indonesian",
+                    "content": ""
+                },
+                {
+                    "langCode": 39,
+                    "langValue": "Vietnamese",
+                    "content": ""
+                }
+            ],
+            "reservationFlag": true,
+            "liveFlag": false,
+            "startTime": "2024-06-13 16:00:00",
+            "creationTime": "",
+            "rewardData": {
+                "state": 0,
+                "resultCode": 0,
+                "message": ""
+            }
+        }
+    }
+}

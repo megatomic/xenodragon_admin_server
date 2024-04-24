@@ -1,0 +1,50 @@
+{
+  "AppType": 1,
+  "AdsType": 1,
+  "StrAppType": "DEV_LOCAL",
+  "StrAdsType": "Test",
+  "LoginServerURL": "http://172.30.1.33/DevHost/BuildTest/",
+  "LoginServerURL_iosReview": "http://172.30.1.33/DevHost/BuildTest/",
+  "PacketVersion": 15,
+  "PlatformInfos": [
+    {
+      "PlatformName": "android",
+      "MarketURL": "http://172.30.1.33/DevHost/BuildTest/android",
+      "ClientVersion": "1.0.3",
+      "PatchVersion": "2",
+      "ServiceState": 0,
+      "ReviewState": 0
+    },
+    {
+      "PlatformName": "ios",
+      "MarketURL": "http://172.30.1.33/DevHost/BuildTest/ios",
+      "ClientVersion": "1.0.1",
+      "PatchVersion": 1,
+      "ServiceState": 1,
+      "ReviewState": 1
+    }
+  ],
+  "NoticeNumber": 19,
+  "NoticeContent": "금일(2022년 09월 01일) 은 MS.06 빌드로 업데이트가 있는 날입니다. 이로 인해 오후 11시부터 12시반까지 점검이 있을 예정이며, 이로 인해 게임 접속이 불가능함을 알려 드립니다. 또한 아울러 이 외 시간에도 불규칙하게 게임 접속이 어려울 수도 있음을 알려 드립니다.",
+  "InspectMessage": [
+    {
+      "code": "Korean",
+      "content": "금일 15:30 ~ 18:30까지 서버를 점검할 예정입니다.\n지금은 테스트입니다.\n두번째 테스트입니다."
+    },
+    {
+      "code": "English",
+      "content": "There will be a server maintanence time from 15:30 to 18:30."
+    }
+  ],
+  "UpdateMessage": [
+    {
+      "code": "Korean",
+      "content": "버전 1.0.2가 출시되었습니다. 업데이트를 받으시길 바랍니다."
+    },
+    {
+      "code": "English",
+      "content": "Version 1.0.2 was launched. Please download it from the app market."
+    }
+  ],
+  "ErrorMessage_Korean": "�˼����� ���� �߻�."
+}
